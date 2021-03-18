@@ -46,7 +46,7 @@ To generate a nsbranding.json configuration file on each Mac, deploy `NSUserKeyD
 There is absolutely no need to continue reading unless you have an interest in how this tool works.
 
 ## Logical Overview
-![Logical Diagram](https://github.gamma.bcg.com/macdevops/NSUserKeyDifferentialImport/blob/master/READMEAssets/NSUserKeyDifferentialImport.png)
+![Logical Diagram](https://github.com/gnotkcin/NSUserKeyDifferentialImport/blob/master/READMEAssets/NSUserKeyDifferentialImport.png)
 
 ## Logical Description
 NSUserKeyDifferentialImport fetches a list of all computer IDs and names (jamfIdentifierPair) from JAMF and, for each jamfIdentifierPair, instantiates the Computer() class, resulting in a single computer object corresponding to each jamfIdentifierPair.
@@ -86,7 +86,7 @@ NSUserKeyDifferentialImport is maintained by The Boston Consulting Group.
 
 It was developed by Nick Tong with contributions from Shaon Jana and Yogesh Dhinwa.
 
-![Open Source Initiative Approved License](https://github.gamma.bcg.com/macdevops/NSUserKeyDifferentialImport/blob/master/READMEAssets/OSILogo.png)
+![Open Source Initiative Approved License](https://github.com/gnotkcin/NSUserKeyDifferentialImport/blob/master/READMEAssets/OSILogo.png)
 
 The MIT License
 
