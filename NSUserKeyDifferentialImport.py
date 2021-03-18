@@ -89,11 +89,11 @@ sys.exit("###")
 # recordLimit = 100 # 0 for no limit. Will find up to this number of empty-userkey JAMF records before stopping
 # verboseMode = True # Boolean keywords are case sensitive: True or False must be capitalized
 
-nsEnv    = 'bcgdev' # 'bcg' or 'bcgdev'
+nsEnv    = 'REDACTED' #
 nsDomain = 'goskope.com'
 nsToken  = 'REDACTED'
 
-jamfEnv    = 'jss' # 'jss' or 'devjss'
+jamfEnv    = 'REDACTED' #
 jamfDomain = 'bcg.com'
 jamfToken  = 'REDACTED=='
 
